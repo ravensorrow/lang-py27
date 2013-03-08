@@ -6,3 +6,16 @@
 __author__ = 'chris'
 __version__ = '0.1'
 
+print "Examples of 6 math functions"
+print ""
+print "Addition: 1 + 1 = ", 1 + 1
+print ""
+print "Subtraction: 1 - 1 = ", 1 - 1
+print ""
+print "Multiplication: 2 * 2 =", 2 * 2
+print ""
+print "Division: 4 / 2 =", 4 / 2
+print ""
+print "Modulo: 14 % 3 =", 14 % 3
+print ""
+print "Powers: 6 ** 2 = ", 6 ** 2
