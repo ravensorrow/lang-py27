@@ -4,10 +4,10 @@
 # http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Who_Goes_There%3F#Input_and_Variables
 
 __author__ = 'chris'
-__version__ = '0.1'
+__version__ = '0.3'
 
-number = input ( "Type in a number: " )
-text = raw_input ( "Type in a string: " )
+number = int ( raw_input ( "Type in an integer: " ) )
+text = str ( raw_input ( "Type in a string: " ) )
 print "Your number is", number
 print "Number is of", type ( number )
 print "Number * 2 =", number * 2
