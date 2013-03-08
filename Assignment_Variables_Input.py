@@ -4,7 +4,7 @@
 # http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6/Who_Goes_There%3F#Input_and_Variables
 
 __author__ = 'chris'
-__version__ = '0.3'
+__version__ = '0.4'
 
 number = int ( raw_input ( "Type in an integer: " ) )
 text = str ( raw_input ( "Type in a string: " ) )
